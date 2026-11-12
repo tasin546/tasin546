@@ -17,7 +17,7 @@
 <br/>
 
 <div align="center">
-  <img src="assets/wallpaper.png" width="100%" style="border-radius:20px" alt="Wallpaper" />
+  <img src="assets/wallpaper.jpg" width="100%" style="border-radius:20px" alt="Wallpaper" />
 </div>
 
 <br/>
