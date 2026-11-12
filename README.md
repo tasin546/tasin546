@@ -28,11 +28,11 @@
 
 | | |
 |:--|:--|
-| 🔭 **Currently working on** | *your current project* |
+| 🔭 **Currently working on** | *VOLQ AI* |
 | 🌱 **Currently learning** | *React · Vue · AI* |
 | 🎮 **Interests** | Sci-Fi · Game dev · UI/UX · 3D (Blender) |
 | 💬 **Ask me about** | Web dev · Android · Design |
-| ⚡ **Fun fact** | *something about you* |
+| ⚡ **Fun fact** | *I’m building an AI startup from Bangladesh 🇧🇩 and scripting a Chernobyl-inspired horror game* |
 
 </div>
 
